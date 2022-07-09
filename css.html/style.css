@@ -1,6 +1,14 @@
-nav {
-    background-color: grey;
+body{
+    font-family: font-family: 'Montserrat', sans-serif; 
 }
-navoptions {
+header {
+    background-color:white;
+    align-items:right;
+}
+.navoptions{
+    color: #333333;
+    font-family: font-family: 'Montserrat', sans-serif; 
+    font-size: 17px;
+    align-items:right;
 
 }
